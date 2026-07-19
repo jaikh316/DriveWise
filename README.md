@@ -22,7 +22,7 @@ DriveWise is an industry-grade, brochure-grounded Retrieval-Augmented Generation
 2. [Technical Stack](#2-technical-stack)
 3. [System Architecture](#3-system-architecture)
 4. [Evaluation Results](#4-evaluation-results)
-5. [File Structure](#5-file-structure)
+5. [File Structure](#5--file-structure)
 6. [Setup and Execution Guide](#6-setup-and-execution-guide)
 
 ---
